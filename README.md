@@ -1,2 +1,7 @@
-# PC_Game_Prediction
-【SIGNATE】PCゲームの勝敗予測
+# 【SIGNATE】【第30回_Beginner限定コンペ】PCゲームの勝敗予測
+## コンペ概要
+- リンク：https://signate.jp/competitions/746  
+- タスク：最初の10分間の対戦データを使ったPCゲームの勝敗予測
+- 期間：2023/1/1 ~ 2023/1/31
+## 結果
+- 6位/170人
